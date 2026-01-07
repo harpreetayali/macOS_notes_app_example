@@ -8,7 +8,6 @@ An example Notes app for macOS built with SwiftUI and SwiftData, focused on stat
 - Move to favourite or any category
   
 ## Screenshots
-Replace the placeholder images in the `Screenshots/` directory with real captures from your app. The images below will render automatically once you add them.
 
 - Home
 
