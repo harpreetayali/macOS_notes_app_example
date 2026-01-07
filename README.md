@@ -31,7 +31,7 @@ Replace the placeholder images in the `Screenshots/` directory with real capture
 
 
 ## Requirements
-- macOS version: X or later (if supporting macOS)
+- macOS version: 26 or later (if supporting macOS)
 - Xcode 26+ (update to your minimum)
 - Swift 5.9+ (update to your minimum)
 
