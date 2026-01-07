@@ -9,35 +9,31 @@ An example Notes app for macOS built with SwiftUI and SwiftData, focused on stat
 ## Screenshots
 Replace the placeholder images in the `Screenshots/` directory with real captures from your app. The images below will render automatically once you add them.
 
-- iPhone Home
+- Home
 
-![iPhone Home](Screenshots/iphone-home.png)
+<img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 01 PM" src="https://github.com/user-attachments/assets/6249d483-ce7d-4742-b1f3-94e69eb46820" />
 
-- iPhone Detail
+- Delete/Rename category menu 
 
-![iPhone Detail](Screenshots/iphone-detail.png)
+<img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 12 PM" src="https://github.com/user-attachments/assets/cb346696-d0c4-4509-bf19-89ef69d8d2c0" />
 
-- iPad Layout
+- Light Mode
 
-![iPad Layout](Screenshots/ipad-layout.png)
+<img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 18 PM" src="https://github.com/user-attachments/assets/cd94b84e-48f3-4a99-8443-76a3115f0a33" />
 
-- macOS Window (if applicable)
+- Note context menu
+- 
+<img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 35 PM" src="https://github.com/user-attachments/assets/e7321ad6-f540-419f-a51f-4128b1826fa0" />
 
-![macOS Window](Screenshots/macos-window.png)
 
 ## Requirements
-- iOS/iPadOS version: X or later (update as needed)
 - macOS version: X or later (if supporting macOS)
-- Xcode 15+ (update to your minimum)
+- Xcode 26+ (update to your minimum)
 - Swift 5.9+ (update to your minimum)
 
 ## Getting Started
 1. Clone the repository
-2. Open the `.xcodeproj` or `.xcworkspace` in Xcode
+2. Open the `.xcodeproj` in Xcode
 3. Select the appropriate scheme
 4. Build and run on a simulator or device
 
-## Configuration
-If your app requires API keys or environment configuration, describe it here.
-
-Example:
