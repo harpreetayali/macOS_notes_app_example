@@ -67,7 +67,7 @@ struct Home: View {
 
             }
         } detail: {
-            NotesView(category: selectedTag)
+            NotesView(category: selectedTag, allCategories: categories)
         }
         .navigationTitle(selectedTag ?? "Notes")
         /// Adding Category Alert
