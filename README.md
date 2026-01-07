@@ -22,7 +22,7 @@ Replace the placeholder images in the `Screenshots/` directory with real capture
 <img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 18 PM" src="https://github.com/user-attachments/assets/cd94b84e-48f3-4a99-8443-76a3115f0a33" />
 
 - Note context menu
-- 
+
 <img width="1512" height="982" alt="Screenshot 2026-01-07 at 10 55 35 PM" src="https://github.com/user-attachments/assets/e7321ad6-f540-419f-a51f-4128b1826fa0" />
 
 
