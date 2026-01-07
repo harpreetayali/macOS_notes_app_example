@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		102089662F0ECDB600D1A59D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 102089652F0ECDB600D1A59D /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		1020890B2F0C18C300D1A59D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		102088FD2F0C18C200D1A59D /* NotesMacApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotesMacApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1020890A2F0C18C300D1A59D /* NotesMacAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotesMacAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		102089142F0C18C300D1A59D /* NotesMacAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotesMacAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		102089652F0ECDB600D1A59D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		102088F42F0C18C200D1A59D = {
 			isa = PBXGroup;
 			children = (
+				102089652F0ECDB600D1A59D /* README.md */,
 				102088FF2F0C18C200D1A59D /* NotesMacApp */,
 				1020890D2F0C18C300D1A59D /* NotesMacAppTests */,
 				102089172F0C18C300D1A59D /* NotesMacAppUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				102089662F0ECDB600D1A59D /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
